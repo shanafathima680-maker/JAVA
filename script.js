@@ -21,6 +21,7 @@ console.log(div)
 console.log(rem)
 console.log(pow)
 
+
 var namee="saira"
 var english=90
 var maths=80
@@ -97,3 +98,9 @@ var remainingamount=finalbill-advancamount
 console.log(remainingamount)
 var totalsavings=firstdiscount+seconddiscount
 console.log(totalsavings)
+let array=[200,150,300,250]
+console.log(array[0])+(array[1])+(array[2])+(array[3])
+var total=(array[0])+(array[1])+(array[2])+(array[3])
+console.log(total)
+console.log(total>800)
+console.log(total>500 &&total<1000)
